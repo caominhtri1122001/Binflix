@@ -5,10 +5,10 @@ import Register from "./pages/register/Register";
 import Login from "./pages/login/Login"
 
 function App() {
-    // return <Home />;
+    return <Home />;
     // return <Watch />;
     // return <Register />;
-    return <Login />;
+    // return <Login />;
 }
 
 export default App;
